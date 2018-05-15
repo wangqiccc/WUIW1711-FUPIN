@@ -1,0 +1,49 @@
+gie
+【第一次操作：】
+git clone 远程地址
+
+cd进去对应的文件夹进行操作
+
+放入将上传的项目
+
+git status
+
+git add --all
+
+git commit -m"1"
+
+git config --global user.email "自己的邮箱"
+
+git config --global user.name "用户名"
+
+git commit -m"1"
+
+git push
+
+
+
+【往后再上传的操作】
+git clone 远程地址
+
+cd进去对应的文件夹进行操作
+
+放入将上传的项目
+
+git status
+
+git add --all
+
+git commit -m"1"
+
+git push
+
+【小组协同合作】
+
+git clone 远程地址
+下载下来之后 修改
+git pull  将远程的文件同步到本地
+再去提交自己的
+原则 本地 远程的一样或者是更多 
+
+
+ 	{git config http.postBuffer 524288000}
